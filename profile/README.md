@@ -12,7 +12,7 @@
 
 ---
 
-## 2. 팀원 역할 분담 (Revised Roles)
+## 2. 팀원 역할 분담 (Roles)
 
 | 성명/역할 | 주요 책임 (Responsibilities) | 핵심 작업 (Tasks) |
 | :--- | :--- | :--- |
