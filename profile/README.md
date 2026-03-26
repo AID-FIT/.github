@@ -40,7 +40,7 @@
 | **Member A**<br>(에이전트/백엔드) | **전체 파이프라인 통합 및 에이전트 설계** | LangChain/LangGraph 구축, API 서버 개발, 프롬프트 엔지니어링 |
 | **Member B**<br>(RAG/데이터) | **지식 베이스 및 검색 시스템 구축** | 의류 데이터셋 확보, Vector DB(ChromaDB 등) 구축, 검색 최적화 |
 | **Member C**<br>(비전/VLM) | **시각 데이터 분석 및 정형화** | VLM(GPT-4o/Gemini) 프롬프트 최적화, 이미지 특징 추출 로직 개발 |
-| **Member D**<br>(FE/UX) | **사용자 인터페이스 및 결과 시각화** | React/Flutter 기반 UI 개발, 이미지 업로드 및 채팅 인터페이스 구현 |
+| **Member D**<br>(FE/UX) | **사용자 인터페이스 및 결과 시각화** | React/Flutter/React-Native 기반 UI 개발, 이미지 업로드 및 채팅 인터페이스 구현 |
 
 ---
 
